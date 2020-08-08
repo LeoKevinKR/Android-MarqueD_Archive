@@ -1,6 +1,10 @@
 # Android-MarqueD_Archive
 release APK archive of MarqueD
 
+## v0.2.0(Beta)
+* Build : 173
+* 종합탭 목록날짜 오류수정
+
 ## v0.1.0(Beta)
 * Build : 172
 * 대기모드 진입제한
