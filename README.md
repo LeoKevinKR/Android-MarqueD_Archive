@@ -1,6 +1,14 @@
 # Android-MarqueD_Archive
 release APK archive of MarqueD
 
+## v1.0.0
+* Build : 180
+* 마켓정식등록
+* 디테일링(세차) 탭 추가
+* 로딩개선
+* 통계그래프개선
+* 기타버그수정
+
 ## v0.2.0(Beta)
 * Build : 173
 * 종합탭 목록날짜 오류수정
